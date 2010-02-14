@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;?php endif; ?&gt;</string>
+	<string>&lt;?php endforeach; ?&gt;</string>
 	<key>name</key>
-	<string>endif</string>
+	<string>endforeach</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
 	<string>end</string>
 	<key>uuid</key>
-	<string>E2F0704F-65A1-4BD9-AA40-0F221F52E0EB</string>
+	<string>67C99EB1-AB07-4543-BE64-F066271C4748</string>
 </dict>
 </plist>
